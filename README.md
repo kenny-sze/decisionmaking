@@ -2,4 +2,4 @@
 elementary level decisionmaking
 
 
-Made using C++, made long ago when I was new to coding.
+Made in C++, made long ago when I was new to coding.
